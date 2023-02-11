@@ -48,7 +48,6 @@ namespace Mod
             ETGModConsole.Log($"<color={color}>{text}</color>");
         }
 
-
         public class JammerHook : MonoBehaviour
         {
             private object superreapear;
@@ -65,7 +64,5 @@ namespace Mod
                 }
             }
         }
-
-
     }
 }
